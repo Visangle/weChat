@@ -1,2 +1,2 @@
 # weChat
-微信app
+wechat app
